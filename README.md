@@ -32,8 +32,3 @@ Execute o comando para iniciar o servidor da api na porta 8000:
 ```bash
 make run
 ```
-### Coletando dados
-Para coletar as palavras, é necessario executar o crawler  usando o comando:
-```bash
-make crawl
-```
